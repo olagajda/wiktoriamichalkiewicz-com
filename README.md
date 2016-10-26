@@ -7,8 +7,8 @@ The very simple design made me concentrated on the layout and finding a pattern 
 I built the site using [GRAV flat file CMS](https://getgrav.org/).
 
 
-![](http://img.olagjd.com/wiktoria-land.png)
+![](http://img.olagjd.com/wiki-land.png)
 
-![](http://img.olagjd.com/wiktoria-layout.gif)
+![](http://img.olagjd.com/wiki-layout.gif)
 
-![](http://img.olagjd.com/wiktoria-project.gif)
+![](http://img.olagjd.com/wiki-project.gif)
