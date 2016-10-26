@@ -6,7 +6,7 @@ The very simple design made me concentrate on the layout and finding a pattern i
 
 I built the site using [GRAV flat file CMS](https://getgrav.org/).
 
-The site will go live in a few weeks. To be viewed now here: [CLICK](http://wiktoria.olagjd.com) 
+The site will go live in a few weeks. To be viewed now here: [CLICK](http://wiktoria.olagjd.com)  
 
 
 ![](http://img.olagjd.com/wiki-land.png)
