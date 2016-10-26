@@ -1,4 +1,4 @@
-# wiktoriamichalkiewicz-com
+# wiktoriamichalkiewicz.com
 
 A minimalistic portfolio website for Wiktoria Michałkiewicz.
 
