@@ -9,16 +9,6 @@ I built the site using [GRAV flat file CMS](https://getgrav.org/).
 
 ![](http://img.olagjd.com/wiki-land.png)
 
-![](http://img.olagjd.com/wiki-layout.gif)
-
-![](http://img.olagjd.com/wiki-lay-2.gif)
-
-![](http://img.olagjd.com/wiki-lay-3.gif)
-
 ![](http://img.olagjd.com/wiki-lay-4.gif)
-
-![](http://img.olagjd.com/wiki-lay-5.gif)
-
-![](http://img.olagjd.com/wiki-lay-6.gif)
 
 ![](http://img.olagjd.com/wiki-project.gif)
