@@ -17,4 +17,6 @@ I built the site using [GRAV flat file CMS](https://getgrav.org/).
 
 ![](http://img.olagjd.com/wiki-lay-4.gif)
 
+![](http://img.olagjd.com/wiki-lay-5.gif)
+
 ![](http://img.olagjd.com/wiki-project.gif)
