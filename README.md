@@ -6,11 +6,11 @@ The very simple design made me concentrate on the layout and finding a pattern i
 
 I built the site using [GRAV flat file CMS](https://getgrav.org/).
 
-The site will go live in a few weeks. To be viewed now here: [CLICK](http://wiktoria.olagjd.com)  
+The site didn't go live but can be viewed here: [CLICK](http://wiktoria.aleksandragajda.com)  
 
 
-![](http://img.olagjd.com/wiki-land.png)
+![](http://img.aleksandragajda.com/wiki-land.png)
 
-![](http://img.olagjd.com/wiki-lay-4.gif)
+![](http://img.aleksandragajda.com/wiki-lay-4.gif)
 
-![](http://img.olagjd.com/wiki-project.gif)
+![](http://img.aleksandragajda.com/wiki-project.gif)
